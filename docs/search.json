@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Master R with Ease! 🚀",
+    "section": "",
+    "text": "help(\"R\")\n\nHey there! I’m here to teach R the way I wished I was taught. Coming from non-computer science field I faced struggles grasping the fundamentals. Now, 10 years later, I want to help people learn faster.\nDon’t go through the struggle alone—let me help you navigate R with confidence!\n✨ Gain practical skills for data analysis - Clear explanations of tough concepts.\nR-programming is part of my professional life. Now, I want to also teach it as a hobby. So I am giving a limited number of tutoring sessions absolutely for free! Just get in touch by mail."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "personal-blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 28, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  }
+]
