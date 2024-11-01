@@ -1,0 +1,28 @@
+---
+title: "Master R with Ease! 🚀"
+image: selfie.png
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Mail
+      href: mailto:dzhaner.emin@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+```{r, eval=FALSE}
+  help("R")
+```
+
+Hey there! I’m here to teach R the way I wished I was taught. Coming from non-computer science field I faced struggles grasping the fundamentals. Now, 10 years later, I want to help people learn faster.
+
+Don’t go through the struggle alone—let me help you navigate R with confidence!
+
+✨ Gain practical skills for data analysis - Clear explanations of tough concepts.
+
+[R-programming](https://en.wikipedia.org/wiki/R_(programming_language)) is part of my professional life. Now, I want to also teach it as a hobby. So I am giving a limited number of tutoring sessions absolutely for free! Just get in touch by mail.
