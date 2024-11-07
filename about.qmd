@@ -1,18 +1,18 @@
 ---
-title: "Master R with Ease! 🚀"
+title: "Master R 🚀"
 image: selfie.png
 about:
   template: jolla
   links:
     - icon: envelope
       text: Mail
-      href: mailto:dzhaner.emin@gmail.com
+      href: mailto:rlernen@icloud.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/dzhaner-emin-9a9054b7/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/DjanerEmin
 ---
 
 ```{r, eval=FALSE}
